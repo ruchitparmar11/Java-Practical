@@ -30,5 +30,4 @@ public class Practical_5 {
             max_no(a, b, c);
         }
     }
-
 }
