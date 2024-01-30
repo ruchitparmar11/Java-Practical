@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Practical_2 {
+public class Practical_02 {
     public static void main(String[] args) {
         try (Scanner sc = new Scanner(System.in)) {
             System.out.print("Enter your weight in pound: ");

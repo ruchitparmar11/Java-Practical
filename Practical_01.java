@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Practical_1 {
+public class Practical_01 {
     public static void main(String[] args) {
         try (Scanner sc = new Scanner(System.in)) {
             System.out.println("Enter Values of A B C D E F");

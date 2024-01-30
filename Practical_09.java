@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Practical_9 {
+public class Practical_09 {
     static void checkPalindrome(String s) {
         String r = "";
         for (int i = s.length() - 1; i >= 0; i--) {

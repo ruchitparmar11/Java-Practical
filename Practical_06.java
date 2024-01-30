@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Practical_6 {
+public class Practical_06 {
     static void checkVowel(int x) {
         if (x == 'a' || x == 'e' || x == 'i' || x == 'o' || x == 'u') {
             System.out.println("Vowel");
