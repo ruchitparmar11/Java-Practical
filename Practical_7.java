@@ -1,4 +1,5 @@
 import java.util.Scanner;
+
 public class Practical_7 {
     public static void main(String[] args) {
         try (Scanner sc = new Scanner(System.in)) {

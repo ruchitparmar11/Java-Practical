@@ -15,6 +15,7 @@ public class Practical_6 {
         try (Scanner sc = new Scanner(System.in)) {
             System.out.print("Enter a Character : ");
             char x = sc.next().charAt(0);
+            System.out.print(x + " Is a ");
             checkVowel(x);
         }
     }
