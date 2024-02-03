@@ -18,7 +18,6 @@ public class Practical_05 {
         } else {
             System.out.println("All are same");
         }
-
     }
 
     public static void main(String[] args) {
