@@ -8,9 +8,9 @@ public class Practical_07 {
             int length = str.length();
             System.out.println("The size of the String is: " + length);
             System.out.print("First-Half of the String is: ");
-            System.out.println(str.substring(0, length/2));
+            System.out.println(str.substring(0, length / 2));
             System.out.print("Second-Half of the String is: ");
-            System.out.println(str.substring(length/2,length));
+            System.out.println(str.substring(length / 2, length));
         }
     }
 }

@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Practical_24 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        Employee[] employees = new Employee[10];
+        Employee[] employees = new Employee[2];
 
         for (int i = 0; i < employees.length; i++) {
             System.out.println("Enter details for Employee " + (i + 1));
@@ -19,7 +19,7 @@ public class Practical_24 {
         }
 
         System.out.println("**** Employee Details ****");
-        
+
         sc.close();
     }
 }

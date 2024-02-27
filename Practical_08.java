@@ -17,7 +17,7 @@ public class Practical_08 {
         int count = 0;
 
         for (String word : words) {
-            if (Character.isUpperCase(word.charAt(0))) {
+            if (!word.isEmpty() && Character.isUpperCase(word.charAt(0))) {
                 count++;
             }
         }
