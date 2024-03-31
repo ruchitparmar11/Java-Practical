@@ -18,7 +18,7 @@ class ClassThree {
     }
 }
 
-class PackDemo {
+public class Practical_29 {
     public static void main(String[] args) {
         ClassOne One = new ClassOne();
         ClassTwo Two = new ClassTwo();
